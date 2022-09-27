@@ -1,0 +1,48 @@
+
+.food-item.data-v-b34b859a {
+	height: 100rpx;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.food-name.data-v-b34b859a {
+	flex: 1;
+}
+.food-price.data-v-b34b859a {
+	flex: 1;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+.sub-btn.data-v-b34b859a {
+	width: 40rpx;
+	height: 50rpx;
+	background-color: black;
+	border-bottom-left-radius: 20rpx;
+	border-top-left-radius: 20rpx;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.add-btn.data-v-b34b859a {
+	width: 40rpx;
+	height: 50rpx;
+	background-color: black;
+	border-bottom-right-radius: 20rpx;
+	border-top-right-radius: 20rpx;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.count.data-v-b34b859a {
+	width: 40px;
+	height: 50rpx;
+	background-color: black;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+

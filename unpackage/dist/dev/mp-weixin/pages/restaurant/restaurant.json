@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "single-restaurant": "/pages/restaurant/components/singleRestaurant"
+  }
+}

@@ -1,0 +1,77 @@
+{
+	"close": "Close",
+	"restaurant": {
+		"allRestaurant": "All",
+		"title": "All Restaurant"
+	},
+	"menu": {
+		"no-matching-food": "No matching food found",
+		"cartTitle": "Add items to your cart",
+		"place-order": "Place Order",
+		"total": "Total:",
+		"choose-payment": "Select Payment",
+		"no-menu": "No menu at the moment.",
+		"title": "Menu"
+	},
+	"order": {
+		"title": "Past Orders",
+		"more": "More"
+	},
+	"language": {
+		"title": "Language"
+	},
+	"tags": {
+		"bbq": "BBQ",
+		"hotpot": "Hotpot",
+		"hotpot_a": "Hotpot",
+		"mala_pot": "Mala Pot",
+		"mala_soup": "Mala Soup",
+		"sichuan": "Szechuan Style",
+		"sichuan_a": "Szechuan Style",
+		"sichuan_b": "Szechuan Style",
+		"hunan": "Hunan Style",
+		"bento": "Lunch Box",
+		"noodle": "Noodle",
+		"shanghai": "Shanghai Style",
+		"korean": "Korean",
+		"sushi": "Sushi",
+		"beijing": "Beijing Style",
+		"home": "Home Style",
+		"home_a": "Home Style",
+		"home_b": "Home Style",
+		"cafe": "Milk Tea",
+		"dongbei": "Dongbei Style",
+		"thai": "Thai",
+		"vietnamese": "Vietnamese",
+		"crepe": "Chinese Crepe",
+		"dim_sum": "Dim Sum",
+		"seafood": "Seafood",
+		"seafood_a": "Seafood",
+		"cantonese": "Cantonese Style",
+		"taiwanese": "Taiwan Style",
+		"dessert": "Dessert",
+		"teppanyaki": "Teppanyaki",
+		"casserole_rice": "Casserole Rice",
+		"take_food": "Take Food",
+		"siu_mei": "Siu Mei",
+		"braised_dishes": "Braised Dishes",
+		"snack": "Snack",
+		"hongkong_cafe": "Cafe",
+		"asian_fusion": "Asian Fusion",
+		"fujian": "Fujian",
+		"wonton": "Wonton",
+		"congee": "Congee",
+		"ramen": "Ramen"
+	},
+	"error": {
+		"need-login": "Please log in first.",
+		"user-duplicate": "Duplicate username",
+		"auth-failed": "Please login again."
+	},
+	"mine": {
+		"language": "Language",
+		"login": "Login",
+		"logout": "Log out",
+		"title": "Mine"
+	}
+}

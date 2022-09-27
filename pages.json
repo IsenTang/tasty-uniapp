@@ -1,0 +1,92 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/restaurant/restaurant",
+			"style": {
+				"enablePullDownRefresh": false,
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/menu/menu",
+			"style": {
+				"enablePullDownRefresh": true,
+				"navigationBarTitleText": ""
+			}
+
+		},
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"enablePullDownRefresh": false,
+				"navigationBarTitleText": ""
+			}
+
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 150
+			}
+
+		},
+		{
+			"path": "pages/language/language",
+			"style": {
+				"enablePullDownRefresh": false
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#3cc51f",
+		"borderStyle": "black",
+		"position": "bottom",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/restaurant/restaurant",
+			"text": "首页",
+			"iconPath": "static/tea-f.png",
+			"selectedIconPath": "static/tea-f.png"
+
+		}, {
+			"pagePath": "pages/order/order",
+			"text": "订单",
+			"iconPath": "static/icons/order.png",
+			"selectedIconPath": "static/icons/order.png"
+		}, {
+			"pagePath": "pages/mine/mine",
+			"text": "我的",
+			"iconPath": "static/icons/avatar.png",
+			"selectedIconPath": "static/icons/avatar.png"
+		}]
+	}
+	// "subPackages": [{
+	// 		"root": "pages",
+	// 		"pages": [{
+	// 			"path": "menu/menu",
+	// 			"style": {
+	// 				"enablePullDownRefresh": true,
+	// 				"navigationBarTitleText": ""
+	// 			}
+	// 		}]
+	// 	},
+	// 	{
+	// 		"root": "pages",
+	// 		"pages": [{
+	// 			"path": "language/language",
+	// 			"style": {
+	// 				"enablePullDownRefresh": false
+	// 			}
+	// 		}]
+	// 	}
+	// ]
+}

@@ -1,0 +1,1 @@
+<view class="dish-img-container data-v-62d77550"><image class="dish-image data-v-62d77550" src="../../../static/dark-dish.png"></image><image class="food-img data-v-62d77550" src="{{image}}"></image></view>

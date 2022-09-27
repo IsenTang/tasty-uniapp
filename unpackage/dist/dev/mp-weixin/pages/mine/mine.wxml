@@ -1,0 +1,1 @@
+<view class="mine-container data-v-dcbcfe34"><button data-event-opts="{{[['tap',[['toLanguage',['$event']]]]]}}" class="setting-button data-v-dcbcfe34" bindtap="__e">{{$root.m0}}</button><button data-event-opts="{{[['tap',[['loginOrOut',['$event']]]]]}}" class="setting-button data-v-dcbcfe34" bindtap="__e">{{isLogin?$root.m1:$root.m2}}</button></view>

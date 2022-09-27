@@ -1,0 +1,13 @@
+
+.order-container.data-v-127632e4 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.orders-containers.data-v-127632e4 {
+	width: 100%;
+	box-sizing: border-box;
+	padding: 30rpx;
+}
+

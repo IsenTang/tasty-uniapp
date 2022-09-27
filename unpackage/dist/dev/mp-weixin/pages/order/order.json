@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 150,
+  "usingComponents": {
+    "single-order": "/pages/order/components/singleOrder"
+  }
+}

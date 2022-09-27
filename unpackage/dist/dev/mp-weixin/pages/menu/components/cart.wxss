@@ -1,0 +1,97 @@
+
+.cart-container.data-v-a6efdd7c {
+	position: fixed;
+	bottom: 50rpx;
+	left: 0;
+	height: 80rpx;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.cart-container-expand.data-v-a6efdd7c {
+	bottom: 0;
+	height: 100vh;
+	align-items: flex-end;
+	background-color: rgba(1, 1, 1, 0.3);
+}
+.main-container.data-v-a6efdd7c {
+	width: 90%;
+	height: 80rpx;
+	background-color: black;
+	border-radius: 35rpx;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: white;
+	padding: 0 30rpx;
+	box-sizing: border-box;
+}
+.main-container-expand.data-v-a6efdd7c {
+	height: 60%;
+	margin-bottom: 20rpx;
+	transition: height 1s;
+	flex-direction: column;
+	padding: 20rpx;
+	background-color: aliceblue;
+	color: black;
+}
+.picker-container.data-v-a6efdd7c {
+	height: 50rpx;
+	width: 100%;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	border-radius: 25rpx;
+	box-shadow: 0 10rpx 20rpx 0 rgba(208, 208, 208, 0.5);
+	margin-top: 20rpx;
+}
+.pick-input.data-v-a6efdd7c {
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 0 20rpx;
+}
+.cart-item-container.data-v-a6efdd7c {
+	height: calc(100% - 80rpx - 200px - 80rpx -50rpx - 20rpx);
+	box-sizing: border-box;
+	padding: 20rpx;
+	display: flex;
+	width: 100%;
+	flex-direction: column;
+	color: black;
+	overflow: auto;
+}
+.cart-food-item.data-v-a6efdd7c {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.checkout-container.data-v-a6efdd7c {
+	display: flex;
+	height: 80rpx;
+	width: 100%;
+	align-items: center;
+	justify-content: space-between;
+	transition: background-color 1s;
+}
+.not-active.data-v-a6efdd7c {
+	background-color: grey;
+}
+.checkout-btn.data-v-a6efdd7c {
+	height: 80rpx;
+	width: 80%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+	color: white;
+	border-radius: 35rpx;
+}
+.checkout-btn-hover.data-v-a6efdd7c {
+	background-color: #29cc8c;
+}
+.page-body.data-v-a6efdd7c {
+	width: 100%;
+}
+

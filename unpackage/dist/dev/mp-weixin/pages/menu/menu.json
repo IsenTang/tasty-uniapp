@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "food-item": "/pages/menu/components/foodItem",
+    "cart": "/pages/menu/components/cart"
+  }
+}

@@ -1,0 +1,19 @@
+
+.dish-img-container.data-v-62d77550 {
+	position: relative;
+	width: 90%;
+	height: 100%;
+	margin: 0 auto;
+}
+.dish-image.data-v-62d77550 {
+	width: 100%;
+	height: 100%;
+}
+.food-img.data-v-62d77550 {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	/* top: 10px; */
+	z-index: 2;
+}
+

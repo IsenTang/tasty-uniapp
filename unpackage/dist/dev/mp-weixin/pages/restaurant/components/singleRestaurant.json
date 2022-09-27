@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "dish-food": "/pages/restaurant/components/dishFood"
+  }
+}

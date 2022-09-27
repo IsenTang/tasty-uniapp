@@ -1,0 +1,1 @@
+<view class="data-v-22f78726"><view class="all-restaurant-container data-v-22f78726"><block wx:for="{{restaurants}}" wx:for-item="restaurant" wx:for-index="__i0__" wx:key="_id"><single-restaurant vue-id="{{'3bf9dea0-1-'+__i0__}}" restaurant="{{restaurant}}" class="data-v-22f78726" bind:__l="__l"></single-restaurant></block></view></view>
